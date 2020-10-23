@@ -102,7 +102,6 @@ public class SignupController {
         // login.htmlにリダイレクト
         return "redirect:/login";
     }
-
     /**
      * DataAccessException発生時の処理メソッド.
      */
